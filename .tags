@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Song	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/song.rb	/^class Song < ActiveRecord::Base$/;"	class	line:1
+get_genre_name	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/song.rb	/^  def get_genre_name$/;"	method	line:5	class:Song
+drake_made_this	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/song.rb	/^  def drake_made_this$/;"	method	line:8	class:Song
+Genre	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/genre.rb	/^class Genre < ActiveRecord::Base$/;"	class	line:1
+song_count	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/genre.rb	/^  def song_count$/;"	method	line:5	class:Genre
+artist_count	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/genre.rb	/^  def artist_count$/;"	method	line:9	class:Genre
+all_artist_names	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/genre.rb	/^  def all_artist_names$/;"	method	line:13	class:Genre
+Artist	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/artist.rb	/^class Artist < ActiveRecord::Base$/;"	class	line:1
+get_genre_of_first_song	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/artist.rb	/^  def get_genre_of_first_song$/;"	method	line:5	class:Artist
+song_count	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/artist.rb	/^  def song_count$/;"	method	line:9	class:Artist
+genre_count	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/app/models/artist.rb	/^  def genre_count$/;"	method	line:13	class:Artist
+Active Record Association Methods	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^# Active Record Association Methods$/;"	function	line:1
+Objectives	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Building our Migrations	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^### Building our Migrations$/;"	function	line:26
+Building our Associations using AR Macros	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^### Building our Associations using AR Macros$/;"	function	line:30
+Association Methods	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^## Association Methods$/;"	function	line:57
+Let's get started with the lab	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/README.md	/^# Let's get started with the lab$/;"	function	line:113
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+ConnectionAdapter	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/lib/support/connection_adapter.rb	/^class ConnectionAdapter$/;"	class	line:1
+initialize	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/lib/support/connection_adapter.rb	/^  def initialize(database, adapter="sqlite3")$/;"	method	line:4	class:ConnectionAdapter
+connect!	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/lib/support/connection_adapter.rb	/^  def connect!$/;"	method	line:9	class:ConnectionAdapter
+CreateArtists	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/02_create_artists.rb	/^class CreateArtists < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/02_create_artists.rb	/^  def change$/;"	method	line:2	class:CreateArtists
+CreateGenres	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/03_create_genres.rb	/^class CreateGenres < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/03_create_genres.rb	/^  def change$/;"	method	line:2	class:CreateGenres
+AddArtistToSongs	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/04_add_artist_to_songs.rb	/^class AddArtistToSongs < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/04_add_artist_to_songs.rb	/^  def change$/;"	method	line:2	class:AddArtistToSongs
+CreateSongs	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/01_create_songs.rb	/^class CreateSongs < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/01_create_songs.rb	/^  def change$/;"	method	line:2	class:CreateSongs
+AddGenreToSongs	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/05_add_genre_to_songs.rb	/^class AddGenreToSongs < ActiveRecord::Migration$/;"	class	line:1
+change	/Users/manon/Development/code/Active-Record-Association-Methods-london-web-career-031119/db/migrate/05_add_genre_to_songs.rb	/^  def change$/;"	method	line:2	class:AddGenreToSongs
